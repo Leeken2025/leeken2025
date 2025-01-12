@@ -82,13 +82,13 @@ hr {
     --qb-input-border-radius: .25em;
     --qb-input-bg: #fff;
     --qb-input-font-weight: 500;
-    --qb-input-color-rgb: 71, 157, 219;
+    --qb-input-color-rgb: 75, 125, 122;
     --qb-input-height: 3rem;
     --qb-input-select-bg-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23888888' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e");
     --qb-input-check-bg-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3e%3cpath fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='m6 10 3 3 6-6'/%3e%3c/svg%3e");
     --qb-input-radio-bg-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='2' fill='%23fff'/%3e%3c/svg%3e");
     --qb-btn-color: #fff;
-    --qb-btn-bg-rgb: 71, 157, 219;
+    --qb-btn-bg-rgb: 75, 125, 122;
     --qb-btn-radius: var(--qb-input-border-radius);
     font-family: var(--qb-font-family);
     font-size: var(--qb-font-size);
@@ -513,7 +513,7 @@ textarea.qbform-field-input {
 }
 .toggle-button:checked + label {
     background: #fff;
-    color: #5e9bd6;
-    border-color: #5e9bd6;
+    color: 387f7a;
+    border-color: 387f7a;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
